@@ -56,7 +56,7 @@ export const services = [
   },
   {
     title: "Cloud Architect",
-    icon: <Cloud size={48} />,
+    icon: <Cloud size={49} />,
     description: "Designing scalable, secure, and cost-effective cloud infrastructure solutions on AWS, Azure, and GCP."
   },
 ];
